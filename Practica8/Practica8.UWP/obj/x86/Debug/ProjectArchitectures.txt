@@ -1,0 +1,2 @@
+C:\Users\Edwin\Documents\Practica8Sqlite\Practica8\Practica8\Practica8.UWP\Practica8.UWP.csproj;x86
+C:\Users\Edwin\Documents\Practica8Sqlite\Practica8\Practica8\Practica8\Practica8.csproj;neutral
